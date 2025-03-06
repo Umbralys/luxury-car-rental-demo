@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luxury-car-rental-demo/static/css/main.99b7e8e4.css",
-    "main.js": "/luxury-car-rental-demo/static/js/main.a4847041.js",
+    "main.js": "/luxury-car-rental-demo/static/js/main.d5542117.js",
     "static/js/453.eb292450.chunk.js": "/luxury-car-rental-demo/static/js/453.eb292450.chunk.js",
     "static/media/lambo.png": "/luxury-car-rental-demo/static/media/lambo.c97cc1ab547f0eca5c24.png",
     "static/media/bentley.png": "/luxury-car-rental-demo/static/media/bentley.98cbdeeff1363dd1a6a6.png",
@@ -9,11 +9,11 @@
     "static/media/rolls-royce.png": "/luxury-car-rental-demo/static/media/rolls-royce.8b034495fe575dff5fd7.png",
     "index.html": "/luxury-car-rental-demo/index.html",
     "main.99b7e8e4.css.map": "/luxury-car-rental-demo/static/css/main.99b7e8e4.css.map",
-    "main.a4847041.js.map": "/luxury-car-rental-demo/static/js/main.a4847041.js.map",
+    "main.d5542117.js.map": "/luxury-car-rental-demo/static/js/main.d5542117.js.map",
     "453.eb292450.chunk.js.map": "/luxury-car-rental-demo/static/js/453.eb292450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b7e8e4.css",
-    "static/js/main.a4847041.js"
+    "static/js/main.d5542117.js"
   ]
 }
